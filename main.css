@@ -116,7 +116,6 @@ header {
   border-bottom-left-radius: 180%;
   transition: 650ms cubic-bezier(1, 0, 0, 1);
 }
-
 .nav-list {
   list-style: none;
   width: 100%;
